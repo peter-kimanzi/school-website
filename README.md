@@ -1,6 +1,6 @@
 ## School-website
 
-## Description
+## Description.
 
 This is a school website design
 
